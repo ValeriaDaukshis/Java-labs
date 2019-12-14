@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_lab1_Library.iml" filepath="$PROJECT_DIR$/Java_lab1_Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loger/loger.iml" filepath="$PROJECT_DIR$/loger/loger.iml" />
     </modules>
   </component>
 </project>
